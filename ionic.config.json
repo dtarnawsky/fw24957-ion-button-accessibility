@@ -1,0 +1,7 @@
+{
+  "name": "fw-2957",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
