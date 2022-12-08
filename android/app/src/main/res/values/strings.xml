@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">fw-2957</string>
+    <string name="title_activity_main">fw-2957</string>
+    <string name="package_name">fw.2957</string>
+    <string name="custom_url_scheme">fw.2957</string>
+</resources>
